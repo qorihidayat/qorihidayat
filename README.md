@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, Wellcome to my repository</h1>
 <h3 align="center">
-I am an experienced Web Developer / SQA Automation / IT Support Skilled in HTML5, CSS, SASS, Bootstrap, Java, JavaScript and PHP Native. I graduated from Nusa Mandiri university <h3>
+I am an experienced Web Developer / SQA Automation / IT Support. I have skill in HTML5, CSS, SASS, Bootstrap, Java, JavaScript and PHP Native. I graduated from Nusa Mandiri university <h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qorihidayat&label=Profile%20views&color=0e75b6&style=flat" alt="qorihidayat" /> </p>
 
