@@ -2,7 +2,8 @@
 )
 
 <h1 align="center">Hi 👋, Wellcome to my repository</h1>
-<h3 align="center">I am an experienced Web Developer / SQA Automation / IT Support Skilled in HTML5, CSS, SASS, Bootstrap, Java, JavaScript and PHP Native. I graduated from Nusa Mandiri university</h3>
+# 💫 About Me:
+I am an experienced Web Developer / SQA Automation / IT Support Skilled in HTML5, CSS, SASS, Bootstrap, Java, JavaScript and PHP Native. I graduated from Nusa Mandiri university
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qorihidayat&label=Profile%20views&color=0e75b6&style=flat" alt="qorihidayat" /> </p>
 
@@ -11,11 +12,7 @@
 
 - 🌱 I’m currently learning **Java, JavaScript, React Js**
 
-- 👨‍💻 All of my projects are available at [qorihidayat.github.io](qorihidayat.github.io)
-
-- 📫 How to reach me **hidayatqori@gmail.com**
-
-- 📄 Know about my certificate MyCertificate <a href="[https://instagram.com/qayy99](https://drive.google.com/drive/folders/17QUk2ew1Tz_fg7WkMwRl7inczMg9cU-A)" target="blank">My Certificate</a>
+- 📫 How to reach me **083872530866**
 
 - ⚡ Fun fact **Creativity**
 
