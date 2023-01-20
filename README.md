@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hidayatqori@gmail.com**
 
-- 📄 Know about my certificate MyCertificate (https://drive.google.com/drive/folders/17QUk2ew1Tz_fg7WkMwRl7inczMg9cU-A)
+- 📄 Know about my certificate MyCertificate <a href="[https://instagram.com/qayy99](https://drive.google.com/drive/folders/17QUk2ew1Tz_fg7WkMwRl7inczMg9cU-A)" target="blank">My Certificate</a>
 
 - ⚡ Fun fact **Creativity**
 
