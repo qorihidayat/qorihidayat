@@ -1,5 +1,5 @@
 [![MasterHead][![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif
-)]
+)
 
 <h1 align="center">Hi 👋, Wellcome to my repository</h1>
 <h3 align="center">
