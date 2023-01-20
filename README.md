@@ -12,9 +12,8 @@ I am an experienced Web Developer / SQA Automation / IT Support Skilled in HTML5
 
 - 🌱 I’m currently learning **Java, JavaScript, React Js**
 
-- 📫 How to reach me **083872530866**
+- 📫 How to reach me **hidayatqori@gmail.com**
 
-- ⚡ Fun fact **Creativity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
