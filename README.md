@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif
 )
 
-<h1 align="center">Hi 👋, Wellcome to my repository</h1>
+<h1 align="center">Hi 👋, Wellcome to My Repository</h1>
 <h3 align="center">
 I am an experienced Web Developer / SQA Automation / IT Support. I have skill in HTML5, CSS, SASS, Bootstrap, Java, JavaScript and PHP Native. I graduated from Nusa Mandiri university <h3>
 
